@@ -1,0 +1,11 @@
+Bus 007 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 002 Device 002: ID 18e3:9106 Fitipower Integrated Technology Inc 
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 006 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 005 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 001 Device 005: ID 0cf3:9271 Atheros Communications, Inc. AR9271 802.11n
+Bus 001 Device 003: ID 0bc2:2320 Seagate RSS LLC USB 3.0 bridge [Portable Expansion Drive]
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 003 Device 002: ID 413c:2501 Dell Computer Corp. 
+Bus 003 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
