@@ -1,0 +1,31 @@
+﻿EXPLANATION NOTES ASSIGNMENT 6
+
+PART I
+
+The implementation was done using two binary heaps ie Min Heap and Max Heap defined as classes with functions as given below:
+	
+	swim(self, index)
+	sink(self, index)
+	Remove(self, value)
+	smaller_child(self, i)
+	put(self, node)
+	isEmpty(self)
+	size(self)
+	GetMin(self)
+	IsContain(self, name)
+	BuiltMIN_HEAP(self, txtfile)/BuiltMAX_HEAP(self, txtfile)
+	print_MIN_HEAP(self)
+
+
+PART II
+
+The implementation was done using same two binary heaps ie Min Heap and Max Heap defined as classes with additional function as below:
+	
+	recursion(file, mode, len, align) -	For recursively check data and dump 	into 3 sets of file ie left right and center
+	
+	write_data(filename)	-	Used to recursively check all center files 	and join them to make one file
+
+
+The ouput and all sub files ae kept in the Project_Data sub directory
+
+The code has been optimized for Python 2.6.6 on Ubuntu 64 Bit
